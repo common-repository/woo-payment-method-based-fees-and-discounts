@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Methods based Discount and Fees for "
+"WooCommerce\n"
+"POT-Creation-Date: 2019-02-28 13:56+0530\n"
+"PO-Revision-Date: 2019-02-28 13:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: flycart\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ../plugin/woo-discount-based-on-payment-gateway\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: payment-methods-based-discount-and-fees-for-woocommerce.php:49
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s."
+msgstr ""
+
+#: payment-methods-based-discount-and-fees-for-woocommerce.php:60
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s."
+msgstr ""
+
+#: payment-methods-based-discount-and-fees-for-woocommerce.php:71
+msgid ""
+"This plugin can not be activated because it requires a woocommerce plugin."
+msgstr ""
+
+#: payment-methods-based-discount-and-fees-for-woocommerce.php:87
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a woocommerce version "
+"greater than %1$s."
+msgstr ""
+
+#: payment-methods-based-discount-and-fees-for-woocommerce.php:104
+msgid "Please deactivat \"<b>WP Discount</b>\" plugin first. Thank you."
+msgstr ""
+
+#: src/Main.php:41
+msgid "Settings"
+msgstr ""
+
+#: src/Main.php:63 src/Main.php:123
+msgid "Discount"
+msgstr ""
+
+#: src/Main.php:264
+#, php-format
+msgid "Coupon: %s"
+msgstr ""
+
+#: src/settings.php:34 src/settings.php:125
+msgid "Payment Methods based Discount & Fees"
+msgstr ""
+
+#: src/settings.php:40
+msgid "Discount Settings"
+msgstr ""
+
+#: src/settings.php:41 src/settings.php:132
+msgid "Save"
+msgstr ""
+
+#: src/settings.php:49 src/settings.php:140
+msgid "Payment Gateway Group {#}"
+msgstr ""
+
+#: src/settings.php:50 src/settings.php:141
+msgid "Add Row"
+msgstr ""
+
+#: src/settings.php:51 src/settings.php:142
+msgid "Remove Row"
+msgstr ""
+
+#: src/settings.php:58 src/settings.php:149
+msgid "Choose the Payment Gateway"
+msgstr ""
+
+#: src/settings.php:65
+msgid "Discount Type"
+msgstr ""
+
+#: src/settings.php:70 src/settings.php:161
+msgid "Percentage"
+msgstr ""
+
+#: src/settings.php:71 src/settings.php:162
+msgid "Flat Amount"
+msgstr ""
+
+#: src/settings.php:75
+msgid "Discount Amount"
+msgstr ""
+
+#: src/settings.php:76
+msgid "Enter discount amount Eg: 10.25"
+msgstr ""
+
+#: src/settings.php:87
+msgid "Discount Label"
+msgstr ""
+
+#: src/settings.php:88 src/settings.php:179
+msgid "Label to show in the totals column in the checkout"
+msgstr ""
+
+#: src/settings.php:93 src/settings.php:196
+msgid "Minimum Spent (Optional) "
+msgstr ""
+
+#: src/settings.php:94
+msgid ""
+"Apply the discount if order subtotal is above the value set in this field "
+"Eg: 200"
+msgstr ""
+
+#: src/settings.php:105 src/settings.php:208
+msgid "Maximum Spent (optional)"
+msgstr ""
+
+#: src/settings.php:106
+msgid ""
+"Apply the discount if the order subtotal is less than the value set in this "
+"field. Example: 500"
+msgstr ""
+
+#: src/settings.php:117 src/settings.php:220
+msgid "Message to show next to the payment gateway name (during the checkout)"
+msgstr ""
+
+#: src/settings.php:118 src/settings.php:221
+msgid ""
+"The message will show next to the selected payment gateway. Example: Direct "
+"Bank Transfer (your message)"
+msgstr ""
+
+#: src/settings.php:131
+msgid "Fee Settings"
+msgstr ""
+
+#: src/settings.php:156
+msgid "Fee Type"
+msgstr ""
+
+#: src/settings.php:166
+msgid "Fee Amount"
+msgstr ""
+
+#: src/settings.php:167
+msgid "Enter fee amount Eg: 10.25"
+msgstr ""
+
+#: src/settings.php:178
+msgid "Fee Label"
+msgstr ""
+
+#: src/settings.php:197
+msgid ""
+"Apply the fee if order subtotal is above the value set in this field Eg: 200"
+msgstr ""
+
+#: src/settings.php:209
+msgid ""
+"Apply the fee if the order subtotal is less than the value set in this "
+"field. Example: 500"
+msgstr ""
